@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="BillSystem.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Tax" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">10</Value>
+    </Setting>
+    <Setting Name="Adr_fromTel" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">1111</Value>
+    </Setting>
+    <Setting Name="DataSource" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">localhost\SQLEXPRESS;Database=paper;Trusted_Connection=True</Value>
+    </Setting>
+    <Setting Name="BackUpApp" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\tool\BackUpCmd\Backup.bat</Value>
+    </Setting>
+    <Setting Name="Pdf" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="PdfOutPath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">D:\Pdf</Value>
+    </Setting>
+    <Setting Name="PdfOpenApp" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Acrobat.exe</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

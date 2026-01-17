@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="BillSystem" GeneratedClassName="Settings1">
+  <Profiles />
+  <Settings>
+    <Setting Name="year" Type="System.String" Scope="User">
+      <Value Profile="(Default)">2008</Value>
+    </Setting>
+    <Setting Name="month" Type="System.String" Scope="User">
+      <Value Profile="(Default)">01</Value>
+    </Setting>
+    <Setting Name="eraseNum" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">2</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
